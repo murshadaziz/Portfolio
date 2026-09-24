@@ -30,7 +30,7 @@ Portfolio/
 - Navigation and the gallery/skill/hobby grids are laid out using CSS
   `float` and `clear`, per the lab requirements.
 - No JavaScript or CSS frameworks are used.
-- Live site: https://murshadaziz.github.io/portfolio/
+- Live site: https://murshadaziz.github.io/Portfolio/
 
 ## Author
 Murshad Aziz Butt — Software Engineering, NUST Islamabad
